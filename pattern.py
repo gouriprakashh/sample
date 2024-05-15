@@ -24,6 +24,8 @@ while(i<a):
     c=sum
     i=i+1
 """
+
+
 """
 a="python"
 for i in a:
