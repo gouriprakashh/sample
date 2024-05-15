@@ -8,6 +8,8 @@ while n>0:
     print()
     n-=1
     """
+
+
 """
 a=int(input("Enter the number:"))
 b=0
